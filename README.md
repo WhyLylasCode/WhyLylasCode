@@ -10,7 +10,7 @@ I completeely manage HTML and CSS, I aquired several notions of JavaScript on th
 
 Gmail : wiameelalami02@gmail.com
 
-LinkedIn : @Wiame Elalami
+LinkedIn : @Elalami Wiame
 
 Malt : @Wiame Elalami
 
