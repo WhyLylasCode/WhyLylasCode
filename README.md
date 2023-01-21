@@ -4,7 +4,7 @@ Hi, I'am Wiame Elalami (#WhyLylasCode), I have been interested in computer scien
 
 👩🏻‍💻 My skills
 
-I completeely manage HTML and CSS, I aquired several notions of JavaScript on the Front-End side, so I continue to learm about the dynamic side of apage web / application for several weeks now. I am thus at the point for the manageement of the different versions of a project and the sharing with other dvelopers of the same project thanks to Git and GitHub. I am constantly learning to improve myself day by day.
+I completeely manage HTML and CSS, I acquired several notions of JavaScript on the Front-End side, so I continue to learn about the dynamic side of a page web / application for several weeks now. I am thus at the point for the management of the different versions of a project and the sharing with other developers of the same project thanks to Git and GitHub. I am constantly learning to improve myself day by day.
 
 📫 Contact
 
