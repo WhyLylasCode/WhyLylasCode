@@ -1,10 +1,10 @@
-👋🏼 A propos de moi
+Passionnée par l’ingénierie logicielle, le Cloud et les pratiques DevOps, j’aime concevoir et construire des solutions fiables, évolutives et adaptées aux enjeux réels des projets.
 
-Passionnée de sécurité informatique, actuellement en formation chez LDNR preparant un titre bac+3. Mon parcours m'a permis de maîtriser les langages de programmation tels que C++, Java et JavaScript, avec une emphase particulière sur la création d'architectures logicielles robustes.
+Mon parcours m’a permis de développer une vision complète du cycle de vie d’une application, de la conception de l’architecture jusqu’au déploiement et à l’automatisation des infrastructures. J’ai eu l’occasion de travailler sur des projets mêlant développement backend, Cloud Computing, Infrastructure as Code, orchestration de conteneurs et systèmes distribués.
 
-👩🏻‍💻 Mes compétences
+Curieuse, rigoureuse et toujours en quête d’apprentissage, je m’intéresse particulièrement aux architectures modernes, à l’optimisation des processus et aux technologies qui facilitent la création de systèmes performants et maintenables.
 
-En tant qu'étudiante à l'ESGI en Master 1 spécialité sécurité informatique, je combine créativité et rigueur technique. J'apporte une passion constante pour l'innovation, un engagement envers l'excellence, et la capacité à résoudre des problèmes complexes. Mon adaptabilité aux nouvelles technologies et ma volonté d'apprendre en continu font de moi un candidat idéal pour contribuer à votre équipe. Vous pouvez consulter mon CV disponible sur mon portfolio.
+Technologies : AWS • Kubernetes • Docker • Terraform • CI/CD • Linux • JAVA • JS
 
 📫 Contact
 
